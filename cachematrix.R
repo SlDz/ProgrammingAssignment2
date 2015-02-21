@@ -2,7 +2,7 @@
 
 ## makeCacheMatrix creates a special matrix object that can store
 
-## the matrix and its inverse to avoid repetition of costly computations.
+## a matrix and its inverse to avoid repetition of costly computations.
 
 ## The matrix object has methods 'set' for putting a new matrix into the 
 
